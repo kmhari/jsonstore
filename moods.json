@@ -5,6 +5,9 @@
 			"title": "Lift your spirits",
 			"background": {
 				"image": "https://du3avdd2jplpp.cloudfront.net/strains/explore/thumbs/Laugh-It-Up.jpg"
+			},
+			"onClick": {
+				"page": "liftyourspirits.json"
 			}
 		},
 		{
@@ -13,7 +16,7 @@
 				"image": "https://du3avdd2jplpp.cloudfront.net/strains/explore/thumbs/Carpe-Diem.jpg"
 			},
 			"onClick": {
-				"page": "popular.json"
+				"page": "stayproductive.json"
 			}
 		},
 		{
@@ -22,7 +25,7 @@
 				"image": "https://du3avdd2jplpp.cloudfront.net/strains/explore/thumbs/Catch-Some-ZZZzzs.jpg"
 			},
 			"onClick": {
-				"page": "moods.json"
+				"page": "goodnightsleep.json"
 			}
 		},
 		{
@@ -31,7 +34,7 @@
 				"image": "https://du3avdd2jplpp.cloudfront.net/strains/explore/thumbs/Make-New-Friends.jpg"
 			},
 			"onClick": {
-				"page": "medical.json"
+				"page": "conquersocialanxiety.json"
 			}
 		},
 		{
@@ -40,7 +43,7 @@
 				"image": "https://du3avdd2jplpp.cloudfront.net/strains/explore/thumbs/Create-Something-New.jpg"
 			},
 			"onClick": {
-				"page": "plant.json"
+				"page": "motivatethemind.json"
 			}
 		},
 		{
@@ -49,7 +52,7 @@
 				"image": "https://du3avdd2jplpp.cloudfront.net/strains/explore/thumbs/thumb-get-outside.jpg"
 			},
 			"onClick": {
-				"page": "flavors.json"
+				"page": "getactive.json"
 			}
 		}
 
