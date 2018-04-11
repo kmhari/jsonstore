@@ -28,7 +28,7 @@
 		{
 			"title": "Conquer Social Anxiety",
 			"background": {
-				"image": "	https://du3avdd2jplpp.cloudfront.net/strains/explore/thumbs/Make-New-Friends.jpg"
+				"image": "https://du3avdd2jplpp.cloudfront.net/strains/explore/thumbs/Make-New-Friends.jpg"
 			},
 			"onClick": {
 				"page": "medical.json"
