@@ -1,0 +1,23 @@
+{
+  "title": "Category",
+  "data": [
+    {
+      "title": "Hybrid",
+      "background": {
+        "image": "https://s3.amazonaws.com/herbie-images/hybrid"
+      }
+    },
+    {
+      "title": "Indica",
+      "background": {
+        "image": "https://s3.amazonaws.com/herbie-images/indica"
+      }
+    },
+    {
+      "title": "Sativa",
+      "background": {
+        "image": "https://s3.amazonaws.com/herbie-images/sativa"
+      }
+    }
+  ]
+}
