@@ -1,7 +1,6 @@
 {
 	"page": "home",
-	"data": [
-		{
+	"data": [{
 			"title": "Find my strain 🔥",
 			"background": {
 				"color": "#16D66D"
@@ -32,6 +31,69 @@
 			},
 			"onClick": {
 				"page": "moods.json"
+			}
+		},
+		{
+			"title": "Medical",
+			"background": {
+				"color": "#D63031"
+			},
+			"onClick": {
+				"page": "medical.json"
+			}
+		},
+		{
+			"title": "Plant type",
+			"background": {
+				"color": "#D63031"
+			},
+			"onClick": {
+				"page": "plant.json"
+			}
+		},
+		{
+			"title": "Flavors",
+			"background": {
+				"color": "#D63031"
+			},
+			"onClick": {
+				"page": "flavors.json"
+			}
+		},
+		{
+			"title": "Effects",
+			"background": {
+				"color": "#D63031"
+			},
+			"onClick": {
+				"page": "effects.json"
+			}
+		},
+		{
+			"title": "Symptoms",
+			"background": {
+				"color": "#D63031"
+			},
+			"onClick": {
+				"page": "symptoms.json"
+			}
+		},
+		{
+			"title": "Conditions",
+			"background": {
+				"color": "#D63031"
+			},
+			"onClick": {
+				"page": "conditions.json"
+			}
+		},
+		{
+			"title": "About",
+			"background": {
+				"color": "#D63031"
+			},
+			"onClick": {
+				"url": "http://www.f22labs.com/"
 			}
 		}
 
