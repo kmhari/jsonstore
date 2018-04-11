@@ -19,7 +19,7 @@ def generate_for_category
 	
 	config = []
 	category.each do |name|
-		data = {"title":name, "background":{"image": "https://s3.amazonaws.com/herbie-images/#{name.downcase}"}}
+		data = {"title":name, "background":{"image": "https://s3.amazonaws.com/herbie-images/#{name.downcase}.png"}}
 		config << data;
 	end
 	page = {title:"Category", "data":config }

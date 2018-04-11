@@ -4,19 +4,19 @@
     {
       "title": "Hybrid",
       "background": {
-        "image": "https://s3.amazonaws.com/herbie-images/hybrid"
+        "image": "https://s3.amazonaws.com/herbie-images/hybrid.png"
       }
     },
     {
       "title": "Indica",
       "background": {
-        "image": "https://s3.amazonaws.com/herbie-images/indica"
+        "image": "https://s3.amazonaws.com/herbie-images/indica.png"
       }
     },
     {
       "title": "Sativa",
       "background": {
-        "image": "https://s3.amazonaws.com/herbie-images/sativa"
+        "image": "https://s3.amazonaws.com/herbie-images/sativa.png"
       }
     }
   ]
