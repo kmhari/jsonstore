@@ -1,100 +1,55 @@
 {
-	"page": "home",
+	"page": "moods & activities",
 	"data": [
 		{
-			"title": "Find my strain 🔥",
+			"title": "Lift your spirits",
 			"background": {
-				"color": "#16D66D"
+				"image": "https://du3avdd2jplpp.cloudfront.net/strains/explore/thumbs/Laugh-It-Up.jpg"
 			}
 		},
 		{
-			"title": "Newest Strains",
+			"title": "Stay productive",
 			"background": {
-				"color": "#6C5CE7"
-			},
-			"onClick": {
-				"page": "new.json"
-			}
-		},
-		{
-			"title": "Popular strains",
-			"background": {
-				"color": "#00B894"
+				"image": "https://du3avdd2jplpp.cloudfront.net/strains/explore/thumbs/Carpe-Diem.jpg"
 			},
 			"onClick": {
 				"page": "popular.json"
 			}
 		},
 		{
-			"title": "Moods & Activities",
+			"title": "Good Night Sleep",
 			"background": {
-				"color": "#D63031"
+				"image": "https://du3avdd2jplpp.cloudfront.net/strains/explore/thumbs/Catch-Some-ZZZzzs.jpg"
 			},
 			"onClick": {
 				"page": "moods.json"
 			}
 		},
 		{
-			"title": "Medical",
+			"title": "Conquer Social Anxiety",
 			"background": {
-				"color": "#0984E3"
+				"image": "	https://du3avdd2jplpp.cloudfront.net/strains/explore/thumbs/Make-New-Friends.jpg"
 			},
 			"onClick": {
 				"page": "medical.json"
 			}
 		},
 		{
-			"title": "Plant type",
+			"title": "Motivate the Mind",
 			"background": {
-				"color": "#636E72"
+				"image": "https://du3avdd2jplpp.cloudfront.net/strains/explore/thumbs/Create-Something-New.jpg"
 			},
 			"onClick": {
 				"page": "plant.json"
 			}
 		},
 		{
-			"title": "Flavors",
+			"title": "Get Active",
 			"background": {
-				"color": "#E74C3C"
+				"image": "https://du3avdd2jplpp.cloudfront.net/strains/explore/thumbs/thumb-get-outside.jpg"
 			},
 			"onClick": {
 				"page": "flavors.json"
-			}
-		},
-		{
-			"title": "Effects",
-			"background": {
-				"color": "#F1C40F"
-			},
-			"onClick": {
-				"page": "effects.json"
-			}
-		},
-		{
-			"title": "Symptoms",
-			"background": {
-				"color": "#4834D4"
-			},
-			"onClick": {
-				"page": "symptoms.json"
-			}
-		},
-		{
-			"title": "Conditions",
-			"background": {
-				"color": "#22A6B3"
-			},
-			"onClick": {
-				"page": "conditions.json"
-			}
-		},
-		{
-			"title": "About",
-			"background": {
-				"color": "#9A3EBF"
-			},
-			"onClick": {
-				"url": "http://www.f22labs.com/"
 			}
 		}
 
