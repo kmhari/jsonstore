@@ -1,0 +1,293 @@
+{
+  "title": "Flavors",
+  "data": [
+    {
+      "title": "Link",
+      "background": {
+        "color": "#3498db"
+      }
+    },
+    {
+      "title": "Ammonia",
+      "background": {
+        "color": "#5f27cd"
+      }
+    },
+    {
+      "title": "Apple",
+      "background": {
+        "color": "#009432"
+      }
+    },
+    {
+      "title": "Apricot",
+      "background": {
+        "color": "#c0392b"
+      }
+    },
+    {
+      "title": "Berry",
+      "background": {
+        "color": "#6c5ce7"
+      }
+    },
+    {
+      "title": "Blue Cheese",
+      "background": {
+        "color": "#1e3799"
+      }
+    },
+    {
+      "title": "Blueberry",
+      "background": {
+        "color": "#2ecc71"
+      }
+    },
+    {
+      "title": "Butter",
+      "background": {
+        "color": "#27ae60"
+      }
+    },
+    {
+      "title": "Cheese",
+      "background": {
+        "color": "#079992"
+      }
+    },
+    {
+      "title": "Chemical",
+      "background": {
+        "color": "#c0392b"
+      }
+    },
+    {
+      "title": "Chestnut",
+      "background": {
+        "color": "#3498db"
+      }
+    },
+    {
+      "title": "Citrus",
+      "background": {
+        "color": "#6c5ce7"
+      }
+    },
+    {
+      "title": "Coffee",
+      "background": {
+        "color": "#009432"
+      }
+    },
+    {
+      "title": "Diesel",
+      "background": {
+        "color": "#2c3e50"
+      }
+    },
+    {
+      "title": "Earthy",
+      "background": {
+        "color": "#34495e"
+      }
+    },
+    {
+      "title": "Flowery",
+      "background": {
+        "color": "#341f97"
+      }
+    },
+    {
+      "title": "Grape",
+      "background": {
+        "color": "#5f27cd"
+      }
+    },
+    {
+      "title": "Grapefruit",
+      "background": {
+        "color": "#6c5ce7"
+      }
+    },
+    {
+      "title": "Honey",
+      "background": {
+        "color": "#f39c12"
+      }
+    },
+    {
+      "title": "Lavender",
+      "background": {
+        "color": "#009432"
+      }
+    },
+    {
+      "title": "Lemon",
+      "background": {
+        "color": "#1abc9c"
+      }
+    },
+    {
+      "title": "Lime",
+      "background": {
+        "color": "#009432"
+      }
+    },
+    {
+      "title": "Mango",
+      "background": {
+        "color": "#f1c40f"
+      }
+    },
+    {
+      "title": "Menthol",
+      "background": {
+        "color": "#6c5ce7"
+      }
+    },
+    {
+      "title": "Mint",
+      "background": {
+        "color": "#d35400"
+      }
+    },
+    {
+      "title": "Nutty",
+      "background": {
+        "color": "#1abc9c"
+      }
+    },
+    {
+      "title": "Orange",
+      "background": {
+        "color": "#2ecc71"
+      }
+    },
+    {
+      "title": "Peach",
+      "background": {
+        "color": "#079992"
+      }
+    },
+    {
+      "title": "Pear",
+      "background": {
+        "color": "#16a085"
+      }
+    },
+    {
+      "title": "Pepper",
+      "background": {
+        "color": "#079992"
+      }
+    },
+    {
+      "title": "Pine",
+      "background": {
+        "color": "#8e44ad"
+      }
+    },
+    {
+      "title": "Pineapple",
+      "background": {
+        "color": "#3498db"
+      }
+    },
+    {
+      "title": "Plum",
+      "background": {
+        "color": "#3498db"
+      }
+    },
+    {
+      "title": "Pungent",
+      "background": {
+        "color": "#2980b9"
+      }
+    },
+    {
+      "title": "Rose",
+      "background": {
+        "color": "#0652DD"
+      }
+    },
+    {
+      "title": "Sage",
+      "background": {
+        "color": "#079992"
+      }
+    },
+    {
+      "title": "Skunk",
+      "background": {
+        "color": "#27ae60"
+      }
+    },
+    {
+      "title": "Spicy/Herbal",
+      "background": {
+        "color": "#2980b9"
+      }
+    },
+    {
+      "title": "Strawberry",
+      "background": {
+        "color": "#009432"
+      }
+    },
+    {
+      "title": "Sweet",
+      "background": {
+        "color": "#8e44ad"
+      }
+    },
+    {
+      "title": "Tar",
+      "background": {
+        "color": "#009432"
+      }
+    },
+    {
+      "title": "Tea",
+      "background": {
+        "color": "#c0392b"
+      }
+    },
+    {
+      "title": "Tobacco",
+      "background": {
+        "color": "#341f97"
+      }
+    },
+    {
+      "title": "Tree Fruit",
+      "background": {
+        "color": "#d35400"
+      }
+    },
+    {
+      "title": "Tropical",
+      "background": {
+        "color": "#8e44ad"
+      }
+    },
+    {
+      "title": "Vanilla",
+      "background": {
+        "color": "#2c3e50"
+      }
+    },
+    {
+      "title": "Violet",
+      "background": {
+        "color": "#f1c40f"
+      }
+    },
+    {
+      "title": "Woody",
+      "background": {
+        "color": "#8e44ad"
+      }
+    }
+  ]
+}

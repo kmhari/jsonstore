@@ -44,12 +44,12 @@
 			}
 		},
 		{
-			"title": "Plant type",
+			"title": "Category",
 			"background": {
 				"color": "#636E72"
 			},
 			"onClick": {
-				"page": "plant.json"
+				"page": "category.json"
 			}
 		},
 		{
