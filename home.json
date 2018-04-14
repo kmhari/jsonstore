@@ -31,7 +31,8 @@
 				"color": "#D63031"
 			},
 			"onClick": {
-				"page": "moods.json"
+				"page": "moods.json",
+				"pageTitle": "Moods & Activities"
 			}
 		},
 		{
@@ -49,7 +50,8 @@
 				"color": "#636E72"
 			},
 			"onClick": {
-				"page": "category.json"
+				"page": "category.json",
+				"pageTitle": "Category"
 			}
 		},
 		{
@@ -58,7 +60,8 @@
 				"color": "#E74C3C"
 			},
 			"onClick": {
-				"page": "flavors.json"
+				"page": "flavors.json",
+				"pageTitle": "Flavours"
 			}
 		},
 		{
