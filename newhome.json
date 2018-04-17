@@ -1,0 +1,98 @@
+{
+  "title": "Home",
+  "data": [
+    {
+      "title": "Home",
+      "background": {
+        "color": "#f1c40f"
+      }
+    },
+    {
+      "title": "Newest Strains",
+      "background": {
+        "color": "#341f97"
+      },
+      "onClick": {
+        "page": "neweststrains.json"
+      }
+    },
+    {
+      "title": "Popular strains",
+      "background": {
+        "color": "#2980b9"
+      },
+      "onClick": {
+        "page": "popularstrains.json"
+      }
+    },
+    {
+      "title": "Moods & Activities",
+      "background": {
+        "color": "#5f27cd"
+      },
+      "onClick": {
+        "page": "moodsactivities.json"
+      }
+    },
+    {
+      "title": "Medical",
+      "background": {
+        "color": "#f1c40f"
+      },
+      "onClick": {
+        "page": "medical.json"
+      }
+    },
+    {
+      "title": "Category",
+      "background": {
+        "color": "#833471"
+      },
+      "onClick": {
+        "page": "category.json"
+      }
+    },
+    {
+      "title": "Flavors",
+      "background": {
+        "color": "#ED4C67"
+      },
+      "onClick": {
+        "page": "flavors.json"
+      }
+    },
+    {
+      "title": "Effects",
+      "background": {
+        "color": "#1abc9c"
+      },
+      "onClick": {
+        "page": "effects.json"
+      }
+    },
+    {
+      "title": "Symptoms",
+      "background": {
+        "color": "#9b59b6"
+      },
+      "onClick": {
+        "page": "symptoms.json"
+      }
+    },
+    {
+      "title": "Conditions",
+      "background": {
+        "color": "#d35400"
+      },
+      "onClick": {
+        "page": "conditions.json"
+      }
+    },
+    {
+      "title": "About",
+      "background": {
+        "color": "#5f27cd"
+      }
+    }
+  ]
+}
