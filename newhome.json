@@ -26,15 +26,6 @@
       }
     },
     {
-      "title": "Moods & Activities",
-      "background": {
-        "color": "#5f27cd"
-      },
-      "onClick": {
-        "page": "moodsactivities.json"
-      }
-    },
-    {
       "title": "Medical",
       "background": {
         "color": "#f1c40f"
