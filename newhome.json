@@ -1,12 +1,7 @@
 {
   "title": "Home",
+  "navbarColor": "#f1c40f",
   "data": [
-    {
-      "title": "Home",
-      "background": {
-        "color": "#f1c40f"
-      }
-    },
     {
       "title": "Newest Strains",
       "background": {
